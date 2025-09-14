@@ -69,4 +69,11 @@ A professional **interactive dashboard** was built in **Power BI** to visualize 
 - Comparison with benchmark (S&P 500)  
 - Professional dashboard for interactive exploration  
 
+<img width="1486" height="834" alt="1" src="https://github.com/user-attachments/assets/07e8f2c7-1e3f-4378-ae35-1b290e7ffbd2" />
+
+<img width="1486" height="834" alt="2" src="https://github.com/user-attachments/assets/6e62a72d-b293-4a3f-8c81-e556fb9dbf85" />
+
+<img width="1487" height="834" alt="3" src="https://github.com/user-attachments/assets/c9b87d67-9db3-409b-b67a-c8ae5591de1d" />
+
 ---
+
